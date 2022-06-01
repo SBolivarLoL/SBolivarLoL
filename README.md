@@ -16,7 +16,7 @@
 <a href="https://twitter.com/mikelsoftdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mikelsoftdev" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mikel-diaz-vel%C3%A1squez-a1672022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikel diaz velasquez" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17885796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17885796" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mikelmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mikelmd" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mikelmd?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mikelmd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mcoded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mcoded" height="30" width="40" /></a>
 </p>
 
