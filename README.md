@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **Blockchain project with solidity** and a **Food ordering service with 3 developers**
 
-- 🌱 I’m currently learning **linear data structures and a little of everything**
+- 🌱 I’m currently learning **swagger with openAPI, express security, and a little of everything**
 
 - 📝 I regularly write twetts on [https://twitter.com/MikelSoftDev](https://twitter.com/MikelSoftDev)
 
