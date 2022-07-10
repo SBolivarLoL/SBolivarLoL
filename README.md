@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbolivarlol&label=Profile%20views&color=0e75b6&style=flat" alt="sbolivarlol" /> </p>
 
-- 🔭 I’m currently working on a **Blockchain project with solidity** and a **Food ordering service with 3 developers**
+- 🔭 I’m currently working on a **Blockchain project with solidity**
 
 - 🌱 I’m currently learning **swagger with openAPI, express security, and a little of everything**
 
