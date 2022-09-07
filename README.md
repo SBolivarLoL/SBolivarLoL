@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbolivarlol&label=Profile%20views&color=0e75b6&style=flat" alt="sbolivarlol" /> </p>
 
-- 🔭 I’m currently working on **my programming logic about algorithims"
+- 🔭 I’m currently working on **my programming logic about algorithims**
 
 - 🌱 I’m currently learning **Typescript, express security, and a little of everything**
 
