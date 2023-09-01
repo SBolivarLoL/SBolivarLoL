@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbolivarlol&label=Profile%20views&color=0e75b6&style=flat" alt="sbolivarlol" /> </p>
 
-- 🔭 I’m currently working on **my programming logic about algorithims**
+- 🔭 I’m currently working on **AI data training**
 
-- 🌱 I’m currently learning **Typescript, express security, and a little of everything**
+- 🌱 I’m currently expanding my knowledge in the backend and learning **software security, NestJS, and a little bit of everything**
 
-- ⚡ Fun fact **I am part of the Nacional Civil Protection System of Panama**
+- ⚡ Fun fact **I like learning for fun or for a purpose**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
