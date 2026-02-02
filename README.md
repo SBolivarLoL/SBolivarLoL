@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mikel aka SBolivar</h1>
-<h3 align="center">An enthusiastic and ambitious backend developer</h3>
+<h3 align="center">An enthusiastic and ambitious AI engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbolivarlol&label=Profile%20views&color=0e75b6&style=flat" alt="sbolivarlol" /> </p>
 
-🔭 I’m currently working on **AI data training**
+🔭 I’m currently working as an **AI engineer**
 
 🌱 I’m currently learning
-- AI and Machine Learning 
-- Rust, Bun
-- Bash Scripting
-- Software Security
+- AI agents, Agentic workflows
+- CrewAI, OpenAI agents sdk, claude agents sdk
+- Embeddings and Vectorized DB -- RAG
  
-🛠 Technologies I have used:
-- Python, JavaScript, Node.js, TypeScript, Express.js, Sequelize, Postgres
-- Postman, Insomnia, MongoDB, Git, Linux, Docker, Bash 
+🛠 Technologies I have used and know:
+- Python, JavaScript, Node.js, TypeScript, Express.js, Sequelize, Postgres, agents-sdk, Ruff
+- Claude code, Codex
+- Cursor, Postman, Insomnia, MongoDB, Git, Linux, Docker, Bash, Jira
 
 ⚡ Fun fact **I love learning🤓**
 
