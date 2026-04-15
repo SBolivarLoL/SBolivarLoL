@@ -1,40 +1,121 @@
-<h1 align="center">Hi 👋, I'm Mikel aka SBolivar</h1>
-<h3 align="center">An enthusiastic and ambitious AI engineer</h3>
+<h1 align="center">Hi 👋, I'm Mikel Diaz</h1>
+<h3 align="center">Forward Deployed AI Engineer — shipping agentic LLM systems in production</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sbolivarlol&label=Profile%20views&color=0e75b6&style=flat" alt="sbolivarlol" /> </p>
-
-🔭 I’m currently working as an **AI engineer**
-
-🌱 I’m currently learning
-- AI agents, Agentic workflows
-- CrewAI, OpenAI agents sdk, claude agents sdk
-- Embeddings and Vectorized DB -- RAG
- 
-🛠 Technologies I have used and know:
-- Python, JavaScript, Node.js, TypeScript, Express.js, Sequelize, Postgres, agents-sdk, Ruff
-- Claude code, Codex
-- Cursor, Postman, Insomnia, MongoDB, Git, Linux, Docker, Bash, Jira
-
-⚡ Fun fact **I love learning🤓**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mikelsoftdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mikelsoftdev" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mikel-diaz-vel%C3%A1squez-a1672022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikel diaz velasquez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17885796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17885796" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mikelmd?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mikelmd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mcoded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mcoded" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Agentic+AI+Systems;LLM+Orchestration+%26+Evals;MCP+%2B+Multi-Agent+Workflows;Python+%7C+TypeScript+%7C+Claude+%7C+OpenAI+Agents+SDK&center=true&width=600&height=40&color=4F8CC9&vCenter=true&size=18" alt="Typing SVG">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 🧠 About me
 
+- 🔭 I'm a **Forward Deployed Software Engineer @ Invisible Technologies**, building agentic AI pipelines and LLM workflows that power enterprise operations.
+- 🧩 I work at the intersection of **prompt engineering, backend engineering, and real-world AI deployment**.
+- 🌱 Currently going deeper on **multi-agent orchestration, MCP server design, LLM-as-judge evaluation, and RAG at scale**.
+- 🗣️ English 🇬🇧 · Spanish 🇪🇸 — open to remote + relocation.
+- ⚡ Fun fact: I love learning. 🤓
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sbolivarlol&show_icons=true&theme=transparent&locale=en&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbolivarlol&theme=transparent&size_weight=0.5&count_weight=0.5&layout=donut-vertical" />
-</a>
+---
 
+### 🛠️ My AI Engineering Stack
+
+**Agentic AI & LLMs**
+
+<p>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Agents_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logo=crewai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-5A67D8?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DBs-4B8BBE?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Evals-6E40C9?style=for-the-badge&logo=weightsandbiases&logoColor=white" />
+</p>
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Backend & Data**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Key_Vault-0062AD?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+**Dev Tools & Workflow**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
+---
+
+### 🎯 What I'm working on
+
+- **Agentic pipelines** — multi-step LLM agents, critic-agent feedback loops, and tool-use design with OpenAI Agents SDK, Claude Agents SDK, and MCP.
+- **LLM operations** — prompt / eval frameworks, LLM-as-judge pipelines, and model iteration loops for continuous quality improvement.
+- **Automation & ETL** — Python workflow automation, intelligent data reshaping, and multimodal pipeline architecture.
+- **Cloud deployment** — Azure DevOps, Key Vault, Docker, and GCS-integrated deployment workflows.
+
+---
+
+### 📜 Certifications
+
+- 🟠 **Claude Code in Action** — Anthropic (2026)
+- 🟣 **Model Context Protocol (MCP)** — Platzi (2025)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SBolivarLoL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBolivarLoL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SBolivarLoL&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/mikel-diaz-velasquez">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mikeleng@proton.me">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>I build AI systems that work in production — not just in demos.</i></p>
